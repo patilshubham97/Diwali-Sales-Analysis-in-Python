@@ -1,0 +1,2 @@
+- Using Python and its libraries like Pandas, Matplotlib, and Seaborn, conducted an in-depth analysis of Diwali sales data, revealing crucial insights into sales trends, popular products, and customer behavior, enabling businesses to make informed decisions for optimizing their strategies during the festive season.
+- Used different type of visualization (Countplot, Barplot, etc)
